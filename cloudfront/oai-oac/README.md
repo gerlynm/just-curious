@@ -12,7 +12,8 @@ This repository helps you quickly test and compare AWS CloudFront’s **Origin A
 
    ```bash
    git clone https://github.com/gerlynm/just-curious.git
-   cd cloudfront
+   cd cloudfront/oai-oac
+
    ```
 
 2. Initialize Terraform:
